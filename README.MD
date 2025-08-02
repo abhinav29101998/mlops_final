@@ -53,8 +53,8 @@ project-root/
 ###  Installation
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/abhinav29101998/mlops_final.git
+cd mlops_final
 
 # Create virtual environment
 python -m venv venv
@@ -177,6 +177,7 @@ Model creation and validation
 Training process verification
 R² score threshold validation
 Parameter extraction for quantization
+
 
 
 

@@ -119,8 +119,8 @@ docker run ml-model
 You can pull the latest Docker image from [DockerHub](https://hub.docker.com/repository/docker/toteabhinav/mlops-pipeline/tags):
 
 ```bash
-docker pull toteabhinav/ml-model
-docker run --rm toteabhinav/ml-model
+docker pull toteabhinav/mlops-pipeline
+docker run --rm toteabhinav/mlops-pipeline
 ```
 
 ---
@@ -177,4 +177,5 @@ Model creation and validation
 Training process verification
 R² score threshold validation
 Parameter extraction for quantization
+
 

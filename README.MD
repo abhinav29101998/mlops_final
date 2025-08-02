@@ -108,10 +108,10 @@ pytest tests/ -v
 
 ```bash
 # Build Docker image
-docker build -t ml-model .
+docker build -t mlops-pipeline.
 
 # Run Docker container
-docker run ml-model
+docker run mlops-pipeline
 ```
 
 ### **DockerHub Image**
@@ -177,5 +177,6 @@ Model creation and validation
 Training process verification
 R² score threshold validation
 Parameter extraction for quantization
+
 
 
